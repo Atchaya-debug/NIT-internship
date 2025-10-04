@@ -9,7 +9,7 @@ import { useState } from "react";
 // 3. Comment out or delete the placeholder logo line below
 
 // Placeholder logo (replace with your own)
-const logo = "https://github.com/Atchaya-debug/NIT-internship/blob/main/src/components/logo.png?raw=true";
+const logo = "https://github.com/Atchaya-debug/NIT-internship/blob/main/src/components/logo.png?raw=true?w=500";
 
 export const Header = () => {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
